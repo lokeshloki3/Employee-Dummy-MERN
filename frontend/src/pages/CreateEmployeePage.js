@@ -37,7 +37,7 @@ const CreateEmployeePage = () => {
                 className="font-medium text-indigo-600 transition-all duration-200 hover:text-indigo-700 hover:underline focus:text-indigo-700 flex items-center gap-3"
               >
                 <FaBackward />
-                Back to all Employee List
+                
               </Link>
             </p>
 
